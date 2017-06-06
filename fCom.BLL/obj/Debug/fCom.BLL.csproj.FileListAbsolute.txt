@@ -1,0 +1,7 @@
+C:\Users\James Bond\Desktop\DoTNET\UI\fCom.BLL\bin\Debug\fCom.BLL.dll
+C:\Users\James Bond\Desktop\DoTNET\UI\fCom.BLL\bin\Debug\fCom.BLL.pdb
+C:\Users\James Bond\Desktop\DoTNET\UI\fCom.BLL\obj\Debug\fCom.BLL.csprojResolveAssemblyReference.cache
+C:\Users\James Bond\Desktop\DoTNET\UI\fCom.BLL\obj\Debug\fCom.BLL.dll
+C:\Users\James Bond\Desktop\DoTNET\UI\fCom.BLL\obj\Debug\fCom.BLL.pdb
+C:\Users\James Bond\Desktop\DoTNET\UI\fCom.BLL\bin\Debug\fComDB.DLL.dll
+C:\Users\James Bond\Desktop\DoTNET\UI\fCom.BLL\bin\Debug\fComDB.DLL.pdb

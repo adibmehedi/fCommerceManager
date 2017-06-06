@@ -1,0 +1,15 @@
+E:\AIUB\Programming\C#\UI\UI\bin\Debug\UI.exe.config
+E:\AIUB\Programming\C#\UI\UI\bin\Debug\UI.exe
+E:\AIUB\Programming\C#\UI\UI\bin\Debug\UI.pdb
+E:\AIUB\Programming\C#\UI\UI\bin\Debug\MetroFramework.Design.dll
+E:\AIUB\Programming\C#\UI\UI\bin\Debug\MetroFramework.dll
+E:\AIUB\Programming\C#\UI\UI\bin\Debug\MetroFramework.Fonts.dll
+E:\AIUB\Programming\C#\UI\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+E:\AIUB\Programming\C#\UI\UI\obj\Debug\UI.Properties.Resources.resources
+E:\AIUB\Programming\C#\UI\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+E:\AIUB\Programming\C#\UI\UI\obj\Debug\UI.exe
+E:\AIUB\Programming\C#\UI\UI\obj\Debug\UI.pdb
+E:\AIUB\Programming\C#\UI\UI\obj\Debug\UI.Form1.resources
+C:\Users\James Bond\Desktop\DoTNET\UI\UI\bin\Debug\UI.exe.config
+C:\Users\James Bond\Desktop\DoTNET\UI\UI\obj\Debug\UI.exe
+C:\Users\James Bond\Desktop\DoTNET\UI\UI\obj\Debug\UI.pdb

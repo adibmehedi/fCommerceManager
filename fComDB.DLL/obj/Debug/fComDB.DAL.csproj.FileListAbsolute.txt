@@ -1,0 +1,5 @@
+C:\Users\James Bond\Desktop\DoTNET\UI\fComDB.DLL\bin\Debug\fComDB.DLL.dll
+C:\Users\James Bond\Desktop\DoTNET\UI\fComDB.DLL\bin\Debug\fComDB.DLL.pdb
+C:\Users\James Bond\Desktop\DoTNET\UI\fComDB.DLL\obj\Debug\fComDB.DAL.csprojResolveAssemblyReference.cache
+C:\Users\James Bond\Desktop\DoTNET\UI\fComDB.DLL\obj\Debug\fComDB.DLL.dll
+C:\Users\James Bond\Desktop\DoTNET\UI\fComDB.DLL\obj\Debug\fComDB.DLL.pdb
