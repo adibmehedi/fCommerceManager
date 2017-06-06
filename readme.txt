@@ -1,0 +1,1 @@
+fCommerceManager is a .NET based desktop application using Metro UI for facebook based online business. Where one can manage his inventory, sells, supplies, delivery etc.
